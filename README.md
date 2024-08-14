@@ -1,1 +1,2 @@
 # BFS_DFS_Visual_Implementation
+This Python application uses Tkinter to create an interactive tool for visualizing graphs and performing BFS and DFS traversals. Nodes can be dynamically created by clicking on the canvas, represented as labeled circles, and edges are drawn as connecting lines. The tool allows for the visualization of BFS and DFS, with nodes changing color to indicate traversal status. After each traversal, the node colors reset, making the tool ideal for visually understanding graph traversal concepts.
